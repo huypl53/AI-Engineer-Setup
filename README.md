@@ -27,8 +27,15 @@
 ## Deeplearning
 ### Computer vision
 - [liaopeiyuan/TransferDet](https://github.com/liaopeiyuan/TransferDet) This is the repository containing team OverFeat's submission to CVPPP 2020's Wheat Detection Challenge (2/2245) 
-#### Labeling
+### Labeling
 - [jveitchmichaelis/deeplabel](https://github.com/jveitchmichaelis/deeplabel) A cross-platform image annotation tool for machine learning 
+### NLP
+- [pytorch/fairseq](https://github.com/pytorch/fairseq) Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
+- [fastai/fastai](https://github.com/fastai/fastai) fastai simplifies training fast and accurate neural nets using modern best practices
+- [pytorch/text](https://github.com/pytorch/text) Some basic NLP building blocks (tokenizers, metrics, functionals etc.) NLP workflows with PyTorch and torchtext library.
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) development of production ready chat-bots and complex conversational systems, research in the area of NLP and, particularly, of dialog systems.
+- [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) ParlAI (pronounced “par-lay”) is a python framework for sharing, training and testing dialogue models, from open-domain chitchat, to task-oriented dialogue, to visual question answering.
+- [allenai/allennlp](https://github.com/allenai/allennlp)  An Apache 2.0 NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
 
 ## Deployment
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  A guideline for building practical production-level deep learning systems to be deployed in real world applications. 
