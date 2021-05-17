@@ -27,6 +27,12 @@
 ## Deeplearning
 ### Computer vision
 - [liaopeiyuan/TransferDet](https://github.com/liaopeiyuan/TransferDet) This is the repository containing team OverFeat's submission to CVPPP 2020's Wheat Detection Challenge (2/2245) 
+#### Segmentic
+*Document layout analysis*
+***
+- [IBM data](https://developer.ibm.com/exchanges/data/all/publaynet/)
+- [phamquiluan/PubLayNet](https://github.com/phamquiluan/PubLayNet): PubLayNet is a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations. For more information, see [PubLayNet original](https://github.com/ibm-aur-nlp/PubLayNet)
+- [BobLd/DocumentLayoutAnalysis](https://github.com/BobLd/DocumentLayoutAnalysis): not considere scanned documents, but classic pdf documents and leverage all available information (e.g. letters bounding boxes, fonts).
 ### Labeling
 - [jveitchmichaelis/deeplabel](https://github.com/jveitchmichaelis/deeplabel) A cross-platform image annotation tool for machine learning 
 ### NLP
@@ -36,6 +42,15 @@
 - [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) development of production ready chat-bots and complex conversational systems, research in the area of NLP and, particularly, of dialog systems.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) ParlAI (pronounced “par-lay”) is a python framework for sharing, training and testing dialogue models, from open-domain chitchat, to task-oriented dialogue, to visual question answering.
 - [allenai/allennlp](https://github.com/allenai/allennlp)  An Apache 2.0 NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
+- [text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python)
 
+### Sentiment analysis
+
+- [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis)
+- [baidu/Senta](https://github.com/baidu/Senta/blob/master/README.en.md)
+- [bentrevett/pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
+
+### Problems
+- [Document understanding](https://github.com/tstanislawek/awesome-document-understanding)
 ## Deployment
 - [alirezadir/Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  A guideline for building practical production-level deep learning systems to be deployed in real world applications. 
